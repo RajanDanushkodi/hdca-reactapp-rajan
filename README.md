@@ -1,6 +1,14 @@
 
 Run 'npm install' in cmd to load node_modules with all the npm dependencies.
-after npm install, 'npm start' would run the project
+after npm install, 'npm start' would run the project.
+
+Rest of the contents below are from facebook react's sample application by running
+npm install -g create-react-app
+create-react-app my-app
+
+On top of the sample application the converter project is build by adding redux and sass on top of it.
+Sass setup list in below txts can be ignored as its already added in the project.
+****************************************************************************************
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
