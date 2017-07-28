@@ -14,7 +14,6 @@ const ConverterParent=({currencies,convertTo,converterData,updateBaseAmt,changeB
 
     <Converter key={3} currencies={currencies.converter3} convertTo={convertTo}
       updateBaseAmt={updateBaseAmt} converterData={converterData.converter3} changeBase={changeBase} toggleToolTip={toggleToolTip}/>
-      <hr/>
   </div>
   
 );
